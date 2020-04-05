@@ -12,8 +12,16 @@ But guess what? You can now save passwords on your browser (Google Chrome, Firef
 ## Overall Project Description
 Welcome the Challenge! In this project, your goal is to generate a random password for a user that adheres to all password requirements so that we take this stress away from him.
 
-- [] This project requires you to use Random Module tor randomize the password output. This is an easy Python module that you can learn by visiting the Randon Documentation. Here is what the program should entail:
+- This project requires you to use Random Module tor randomize the password output. This is an easy Python module that you can learn by visiting the Randon Documentation. Here is what the program should entail:
 
-- [] Once the program is run, it should output a password of random length with at least 8 characters but at most 20 characters
-- [] The password should contain a lower-case letter, an upper-case letter, a numeric digit, and a special character (@, #, $, %, &, ! etc.)
-- [] Remember to break down your approach to this challenge by introducing comments to make your code more readable/understandable. Also, adhere to the naming conventions and make your variable name descriptive.
+- Once the program is run, it should output a password of random length with at least 8 characters but at most 20 characters
+- The password should contain a lower-case letter, an upper-case letter, a numeric digit, and a special character (@, #, $, %, &, ! etc.)
+- Remember to break down your approach to this challenge by introducing comments to make your code more readable/understandable. Also, adhere to the naming conventions and make your variable name descriptive.
+
+# Contributors
+The following contributed to this project, making edits to improve the final outputs:
+- Cyril Michino (Founder at Chaptr Global)
+- Aseta Shadrack (Data Science Student – Chaptr 1st Cohort)
+- Rohi Ogulq (Data Science Student – Chaptr 1st Cohort)
+
+
