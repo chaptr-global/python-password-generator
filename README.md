@@ -1,10 +1,9 @@
 # Python Password Generator
 Secure Password Generator Python Script
 
-# About Project 
 This is a Python practice project for participants in the Chaptr Data Science Cohort. Below are the project details:
 
-## Description
+## Project Description
 Internet Security has become a contentious issue in the modern-day. We are all opening accounts on different websites, from Facebook, Gmail, Chaptr, to some of those websites you open once a year. However, we cannot afford to think of different passwords for all these sites (some secure, other less so), therefore, we use a standard password or probably two/three password iterations. This has security implications; if a hacker gains your password from one site, they can easily hack all your other accounts some which hold more dear information such as your bank, or your classified emails (Let’s pretend you are Hillary Clinton).
 
 But guess what? You can now save passwords on your browser (Google Chrome, Firefox or Safari) and you can now afford to put random passwords in all the accounts you open on different sites without the worry of remembering these passwords!
@@ -24,4 +23,23 @@ The following contributed to this project, making edits to improve the final out
 - Aseta Shadrack (Data Science Student – Chaptr 1st Cohort)
 - Rohi Ogulq (Data Science Student – Chaptr 1st Cohort)
 
+# License
+MIT License: Copyright (c) 2019 Chaptr Education Inc.
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
